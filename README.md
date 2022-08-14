@@ -1,1 +1,1 @@
-# git_lection_3
+# GeekBrains лекция по C# номер 3
